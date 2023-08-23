@@ -1,0 +1,67 @@
+{
+  "colors": [
+    {
+      "color": "Red",
+      "hex": "#FF0000",
+      "rgb": [255, 0, 0],
+      "cmyk": "0%, 100%, 100%, 0%",
+      "category": "Primary",
+      "wavelength": "620 to 750 nm",
+      "vibrant": true
+    },
+    {
+      "color": "Orange",
+      "hex": "#FFA500",
+      "rgb": [255, 165, 0],
+      "cmyk": "0%, 45%, 100%, 0%",
+      "category": "Secondary",
+      "wavelength": "590 to 620 nm",
+      "vibrant": true
+    },
+    {
+      "color": "Yellow",
+      "hex": "#FFFF00",
+      "rgb": [255, 255, 0],
+      "cmyk": "0%, 0%, 100%, 0%",
+      "category": "Primary",
+      "wavelength": "570 to 590 nm",
+      "vibrant": true
+    },
+    {
+      "color": "Green",
+      "hex": "#00FF00",
+      "rgb": [0, 255, 0],
+      "cmyk": "100%, 0%, 100%, 0%",
+      "category": "Secondary",
+      "wavelength": "495 to 570 nm",
+      "vibrant": true
+    },
+    {
+      "color": "Blue",
+      "hex": "#0000FF",
+      "rgb": [0, 0, 255],
+      "cmyk": "100%, 100%, 0%, 0%",
+      "category": "Primary",
+      "wavelength": "450 to 495 nm",
+      "vibrant": true
+    },
+    {
+      "color": "Indigo",
+      "hex": "#4B0082",
+      "rgb": [75, 0, 130],
+      "cmyk": "71%, 100%, 0%, 49%",
+      "category": "Tertiary",
+      "wavelength": "420 to 450 nm",
+      "vibrant": false
+    },
+    {
+      "color": "Violet",
+      "hex": "#EE82EE",
+      "rgb": [238, 130, 238],
+      "cmyk": "0%, 45%, 0%, 7%",
+      "category": "Secondary",
+      "wavelength": "380 to 420 nm",
+      "vibrant": true
+    }
+  ]
+}
